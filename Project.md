@@ -16,10 +16,10 @@ To develop a cost-efficient inventory management system.
 ---
 
 ## Team
-- **Harshil Malani** (22CSXXX)  
+- **Harshil Malani** (22CS102)  
 - **Vishal Maruti Mukkannavar** (22BSM067)  
 - **Ayush Maurya** (22BEC023)  
-- **Shubham Nagar** (22BECXXX)  
+- **Shubham Nagar** (22BEC115)  
 - **Divyam Anand** (22BSM017)  
 - **Revanth Mourya** (22BSM042)  
 
@@ -64,4 +64,6 @@ To develop a cost-efficient inventory management system.
 | **Wheel Encoders**      | For precise movement tracking and navigation                        | Improves positional accuracy.              |
 | **Proximity Sensors**   | Detect objects or humans nearby                                     | Ensures safe interaction and operation.    |
 | **Microcontroller**     | High-performance microcontroller (e.g., Arduino, STM32, or ESP32)   | Controls and processes all robot components and sensors. |
+
+
 
